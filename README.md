@@ -707,19 +707,20 @@ footer p {
 ## OUTPUT:
 
 **home page**
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/home1.png)
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/home2.png)
+![home1](https://github.com/user-attachments/assets/692b4e48-ac0d-4a69-a416-882bb11da3a3)
+![home2](https://github.com/user-attachments/assets/b379fffe-dfcb-44b0-9b0a-50c10a3e7caa)
+
 
 **menu page**
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/menu1.png)
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/menu2.png)
+![menu1](https://github.com/user-attachments/assets/f0d727f6-5c16-4f34-8da0-7b7d869c63af)
+![menu2](https://github.com/user-attachments/assets/2251cde1-031d-4f4d-8bf7-6b06554e592d)
 
 **administration page**
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/admin1.png)
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/admin2.png)
+![admin1](https://github.com/user-attachments/assets/3b892fc5-879c-4cba-a447-9647396c29b7)
+![admin2](https://github.com/user-attachments/assets/59fea649-ee5e-4967-b9c4-2635d2eba617)
 
 **contacts page**
-![alt text](file:///C:/Users/TonyStark/Documents/Education/WebApplication/HTML/contact.png)
+![contact](https://github.com/user-attachments/assets/64a0e897-ee81-4231-99c6-c22239573550)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
